@@ -1,0 +1,38 @@
+﻿# Build output
+bin/
+obj/
+
+# Visual Studio user-specific files
+.vs/
+*.user
+*.suo
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+
+# Generated files
+*.cache
+
+# Local configuration
+appsettings.local.json
+
+# Database files
+*.mdf
+*.ldf
+*.bak
+
+# Secrets / credentials
+.env
+secrets.json
