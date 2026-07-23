@@ -1,6 +1,7 @@
 using System;
 using System.Windows.Forms;
 using QuanLyTinDung.Forms.Auth;
+using QuanLyTinDung.Forms.DanhMuc;
 
 namespace QuanLyTinDung
 {
@@ -10,7 +11,8 @@ namespace QuanLyTinDung
         static void Main()
         {
             ApplicationConfiguration.Initialize();
-            Application.Run(new FrmLogin());
+            //Application.Run(new FrmLogin());
+            Application.Run(new FrmNhanVien());
         }
     }
 }

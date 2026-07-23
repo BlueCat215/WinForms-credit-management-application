@@ -21,7 +21,6 @@
   <ItemGroup>
     <Folder Include="Database\" />
     <Folder Include="Forms\PhanQuyen\" />
-    <Folder Include="Forms\DanhMuc\" />
     <Folder Include="Forms\BaoCao\" />
     <Folder Include="Forms\XuLyNo\" />
     <Folder Include="Forms\ThuNo\" />

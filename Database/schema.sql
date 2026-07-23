@@ -23,7 +23,9 @@ CREATE TABLE [nhan_vien] (
   [han_muc_phe_duyet] decimal(18, 2),
   [so_dien_thoai] nvarchar(255),
   [email] nvarchar(255),
-  [trang_thai] nvarchar(255)
+  [trang_thai] nvarchar(255),
+  [ten_dang_nhap] nvarchar(255),
+  [mat_khau_hash] nvarchar(255)
 );
 GO
 
